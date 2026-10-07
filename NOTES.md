@@ -20,4 +20,4 @@ In-memory pagination will become slow as the task table grows. Also, `%` and `_`
 - A maximum page size of 100 is reasonable.
 
 ## Tools used
-I used Claude to help review the code and draft the fixes. I ran the app, reproduced the bugs myself (for example, the status filter showing mixed statuses), applied the changes and tested them. I reviewed every change and can explain it. idha apdiye podava
+I used Claude to help review the code and draft the fixes. I ran the app, reproduced the bugs myself (for example, the status filter showing mixed statuses), applied the changes and tested them. I reviewed every change and can explain it. 
